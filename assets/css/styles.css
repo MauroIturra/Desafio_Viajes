@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+/*Barra de navegacion*/
+.navbar{
+    background-color: #259a9c;
+    
+    }
+    
+.navbar-collapse{
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.textonavbar2{
+    color: white;
+    font-size: 12pt;
+}
+
+/*Carrusel*/
+.ImagenCarrusel{
+    height: 70vw;
+}
+/*Favicon parrafos*/
+.boton {
+    background: #259a9c;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: white;
+    width: 100%;
+}
+.parrafo {
+    text-align: justify;
+    font-size: 16px;
+    display: block; 
+    color: white;
+}
+/*Tarjetas*/
+
+.Titulo{
+    color: white;
+    text-align: center;
+    font-size: 30pt;
+}
+.Tarjeta{
+    background-color: #259a9c;
+    color: white;    
+}
+.ImgD{
+    height: 12rem;
+}
+
+/*Formulario*/
+
+.Formulario{
+    color: white;
+}
+.TextoFormulario{
+    color: white;
+    font-size: 15pt;
+}
+#Mensaje{
+    height: 15vw;
+}
+
+/*Footer*/
+.PiedePagina{
+    background-color: #259a9c;
+    height: 5vw;
+}
+.iconos{
+    display: flex;
+    align-items: center;
+    margin-top: 1.5vw;
+    font-size: 2vw;
+    color: white;
+    
+
+}
+.textofooter{
+    display: flex;
+    align-items: center;
+    margin-top: 1.5vw;
+    color: white;
+}

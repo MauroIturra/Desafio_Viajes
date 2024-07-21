@@ -86,13 +86,10 @@ body{
     align-items: center;
     margin-top: 1.5vw;
     font-size: 2vw;
-    color: white;
-    
-
+    color: white;  
 }
-.textofooter{
-    display: flex;
-    align-items: center;
-    margin-top: 1.5vw;
-    color: white;
-}
+@media (max-width: 600px) {
+    .iconos {
+      font-size: 1vw;
+    }
+  }

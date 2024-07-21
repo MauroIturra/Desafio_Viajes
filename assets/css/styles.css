@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color: black;
     font-family: "Nanum Gothic", sans-serif;
@@ -68,6 +71,9 @@ body{
 }
 #Mensaje{
     height: 15vw;
+}
+.botonform{
+    background-color: #259a9c;
 }
 
 /*Footer*/
